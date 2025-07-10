@@ -104,13 +104,13 @@
 
 ## Affiliate
 
-* [Register Affiliate](affiliate/register-affiliate.md)
-* [Affiliate Program](affiliate/affiliate-program.md)
-* [Store Affiliate Dan Cara Order](affiliate/store-affiliate-dan-cara-order.md)
+* [Registrasi Affiliate](affiliate/registrasi-affiliate.md)
+* [Program Affiliate](affiliate/program-affiliate.md)
+* [Kirim Affiliate Dan Cara Order](affiliate/kirim-affiliate-dan-cara-order.md)
 
-## FIx a Problem
+## Penyelesaian Masalah
 
-* [Masalah : user tidak bisa login](fix-a-problem/masalah-user-tidak-bisa-login.md)
+* [Masalah : user tidak bisa login](penyelesaian-masalah/masalah-user-tidak-bisa-login.md)
 
 ***
 
